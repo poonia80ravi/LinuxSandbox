@@ -1,0 +1,9 @@
+[submodule "LinuxSandbox"]
+	path = LinuxSandbox
+	url = https://github.com/volatilityfoundation/volatility3.git
+[submodule "volatility3"]
+	path = volatility3
+	url = https://github.com/volatilityfoundation/volatility3.git
+[submodule "capa"]
+	path = capa
+	url = https://github.com/mandiant/capa.git

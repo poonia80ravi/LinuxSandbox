@@ -1,0 +1,24 @@
+2024-03-22 16:58:14,738 : INFO : Restored the virtual machine
+2024-03-22 16:58:20,009 : INFO : Started the virtual machine
+2024-03-22 16:58:33,662 : INFO : Executable copied to vm machine
+2024-03-22 16:58:37,265 : INFO : Executables permissions changed
+2024-03-22 16:58:37,268 : INFO : 27115
+2024-03-22 16:58:53,215 : INFO : Executing sysdig tool to collect all syscalls!
+2024-03-22 16:58:53,227 : INFO : Executing sysdig tool!
+2024-03-22 16:58:53,234 : INFO : Sample Executed sucessfully!
+2024-03-22 17:00:11,634 : INFO : Restored the virtual machine
+2024-03-22 17:00:15,456 : INFO : Started the virtual machine
+2024-03-22 17:00:25,655 : INFO : Executable copied to vm machine
+2024-03-22 17:00:29,015 : INFO : Executables permissions changed
+2024-03-22 17:00:29,016 : INFO : 27512
+2024-03-22 17:00:37,058 : INFO : Executing sysdig tool to collect all syscalls!
+2024-03-22 17:00:37,059 : INFO : Executing sysdig tool!
+2024-03-22 17:00:37,059 : INFO : Sample Executed sucessfully!
+2024-03-22 17:02:26,685 : INFO : Restored the virtual machine
+2024-03-22 17:02:30,611 : INFO : Started the virtual machine
+2024-03-22 17:02:39,932 : INFO : Executable copied to vm machine
+2024-03-22 17:02:43,293 : INFO : Executables permissions changed
+2024-03-22 17:02:43,293 : INFO : 27923
+2024-03-22 17:02:46,674 : INFO : Executing sysdig tool to collect all syscalls!
+2024-03-22 17:02:46,675 : INFO : Executing sysdig tool!
+2024-03-22 17:02:46,675 : INFO : Sample Executed sucessfully!

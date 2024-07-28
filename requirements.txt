@@ -1,0 +1,4 @@
+jc==1.25.1
+psycopg2==2.9.9
+pyelftools==0.31
+volatility==2.1
